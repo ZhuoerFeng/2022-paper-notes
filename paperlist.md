@@ -1,3 +1,21 @@
+## Datasets
+
+- [ ] [PAQ: 65 Million Probably-Asked Questions and What You Can Do With Them](https://aclanthology.org/2021.tacl-1.65.pdf)
+  - TACL 2021-1
+  - Non-conversational question answering datasets
+- [ ] [MS MARCO: A human generated machine reading comprehension dataset](https://arxiv.org/abs/1611.09268)
+  - Non-conversational question answering datasets
+- [ ] PublicDialog || from [Lamda: Language models for dialog applications](https://arxiv.org/pdf/2201.08239.pdf)
+  - Not released
+  - mixed 50% forum 
+- [ ] [Inductive Representation Learning on Large Graphs](https://arxiv.org/pdf/1706.02216.pdf)
+  - jure
+  - 
+
+
+
+## Retrieval augmented generation in conversation, QA
+
 - [x] More is Better: Enhancing Open-Domain Dialogue Generation via Multi-Source Heterogeneous Knowledge (weibo)
 
 - [ ] [Improving **knowledge**-aware **dialogue generation** via **knowledge** base question answering](https://ojs.aaai.org/index.php/AAAI/article/view/6453)
@@ -36,4 +54,18 @@
 
 - [ ] [Learning to Retrieve Passages without Supervision](https://arxiv.org/abs/2112.07708)
 - [ ] [Towards Unsupervised Dense Information Retrieval with Contrastive Learning](https://arxiv.org/abs/2112.09118)
-- [ ] 
+
+
+
+## Dialog inpainting 
+
+- [ ] [Dialog Inpainting: Turning Documents into Dialogs](https://arxiv.org/pdf/2205.09073.pdf)
+
+## Conversational QA
+
+
+
+- [ ] [Passage re-ranking with bert](https://arxiv.org/pdf/2205.09073.pdf)
+
+
+
